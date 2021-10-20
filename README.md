@@ -3,15 +3,15 @@ Here's how to set up docker and shit\
 The notion doc is soooorta wonky, but still, here: https://rvk7895.notion.site/rvk7895/Instructions-to-install-MySQL-in-Docker-b91ff88693544d639abcd30844a2ff86
 
 First, get this repo and cd into it.\
-Now, do everything from within here\
+Now, do everything from within here
 
-**Step 1.** Get the docker engine :thumbs:\
+**Step 1.** Get the docker engine :thumbs:
 
-**Step 2.** use the `usermod` command to add yourself to the `docker` group. This is only to prevent spamming sudo for any docker command.\
+**Step 2.** use the `usermod` command to add yourself to the `docker` group. This is only to prevent spamming sudo for any docker command.
 
-**Step 3.** Get MYSQL in docker: `docker pull ubuntu/mysql` (this works on arch too btw)\
+**Step 3.** Get MYSQL in docker: `docker pull ubuntu/mysql` (this works on arch too btw)
 
-**Step 4.** Set up MYSQL environment within docker: `docker run --name=<SetAContainerName> -p 30306:3306 -e MYSQL_ROOT_PASSWORD=<SetAPassword> -d ubuntu/mysql`\
+**Step 4.** Set up MYSQL environment within docker: `docker run --name=<SetAContainerName> -p 30306:3306 -e MYSQL_ROOT_PASSWORD=<SetAPassword> -d ubuntu/mysql`
 
 ---
 
