@@ -50,4 +50,4 @@ The purpose of the database is to organize and store the information of the vari
 - The Genera and Species attributes have been merged into one single attribute `SciName`.
 
 ## Link to the video
-<u>https://iiitaphyd-my.sharepoint.com/:v:/g/personal/pratyay_s_research_iiit_ac_in/EUq2r2d4qoZLjBLYX4Dh8HYBrwFyBRs-qAijFPvL9RQYyA?e=fpLfVG</u>
+<u>`https://iiitaphyd-my.sharepoint.com/:v:/g/personal/pratyay_s_research_iiit_ac_in/EUq2r2d4qoZLjBLYX4Dh8HYBrwFyBRs-qAijFPvL9RQYyA?e=fpLfVG`</u>
