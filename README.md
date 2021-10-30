@@ -7,7 +7,7 @@
 
 ## Team WeDontKnown:
 - Gaurav Singh, 2020111014
-- Pratysy Suvarnapathaki, 2020111016 
+- Pratyay Suvarnapathaki, 2020111016 
 - Yash Mehan, 2020111020
 
 
