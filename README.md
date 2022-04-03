@@ -1,14 +1,13 @@
-# DnA Project Phase 4
-## MonkeDB, CLI Phase
+## MonkeDB
 
 ## Development
 - Frontend in Python
 - Backend in MySQL
 
-## Team WeDontKnown:
-- Gaurav Singh, 2020111014
-- Pratyay Suvarnapathaki, 2020111016 
-- Yash Mehan, 2020111020
+## Team:
+- Gaurav Singh
+- Pratyay Suvarnapathaki 
+- Yash Mehan
 
 
 ## Miniworld
@@ -43,11 +42,5 @@ The purpose of the database is to organize and store the information of the vari
 8. `Retrieve` the average population of an organism across all years.
 9. `Retrieve` the names of all employees whose address contains the given substring.
 
-
-## Changes from Phase 3
-- The datatype `smallmoney` has been replace with `int` as the former does not exist in MySQL.
-- The datatype `smalldatetime` has been replaced with UNIX timestamps, implemented as `int(11)`.
-- The Genera and Species attributes have been merged into one single attribute `SciName`.
-
-## Link to the video
+## Link to demo video
 <u>`https://iiitaphyd-my.sharepoint.com/:v:/g/personal/pratyay_s_research_iiit_ac_in/EUq2r2d4qoZLjBLYX4Dh8HYBrwFyBRs-qAijFPvL9RQYyA?e=fpLfVG`</u>
